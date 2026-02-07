@@ -42,7 +42,6 @@ Passionate about ensuring software quality, improving user experience, and contr
 
 - 📧 Email: adindanimas123@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/adindanimas  
-- 💻 GitHub: https://github.com/spideynih  
 
 ---
 
