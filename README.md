@@ -1,12 +1,16 @@
-👋 Hi, I’m Adinda Nimas
+<h1 align="center">👋 Hi, I'm Adinda Nimas</h1>
+<h3 align="center">Quality Assurance Engineer from Indonesia 🇮🇩</h3>
 
-🎓 Information Systems graduate from Gunadarma University  
-💻 Quality Assurance Engineer
-📍 Indonesia  
+<p align="center">
+Information Systems graduate from Gunadarma University with over one year of experience in IT Support and Quality Assurance.
+</p>
 
-I have over one year of experience in IT Support and Quality Assurance, with hands-on involvement in software testing, system troubleshooting, and supporting development processes.
+---
 
-I am passionate about ensuring software quality, improving user experience, and contributing to reliable and efficient systems. I have experience using both manual and automation testing tools across the software development lifecycle.
+## 👩‍💻 About Me
+
+I have hands-on experience in software testing, troubleshooting, and supporting development processes.  
+Passionate about ensuring software quality, improving user experience, and contributing to reliable and efficient systems.
 
 ---
 
@@ -37,8 +41,11 @@ I am passionate about ensuring software quality, improving user experience, and 
 ## 📫 Connect with Me
 
 - 📧 Email: adindanimas123@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/adindanimas/  
+- 💼 LinkedIn: https://www.linkedin.com/in/adindanimas  
+- 💻 GitHub: https://github.com/spideynih  
 
 ---
 
+<p align="center">
 ⭐ Thank you for visiting my profile!
+</p>
